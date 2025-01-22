@@ -1,4 +1,4 @@
-# Sash Windows Across the Europe
+# Early Sash Windows in the Europe
 
 ```mermaid
 gantt
