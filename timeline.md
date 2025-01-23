@@ -7,28 +7,28 @@ gantt
     axisFormat %Y
 
 	section ENGLAND
-        Somerset House, London [unbalanced]         : 1661, 1663
-		The Palace of White Hall [unbalanced]       : 1662,
-		Palace House in Newmarket, Suffolk          : 1668, 1671
-        St James’s Palace                           : 1672,
-		The Palace of White Hall                    : 1672,
+        Somerset House, London [unbalanced]         : done, 1661, 1663
+		The Palace of White Hall [unbalanced]       : done, 1662, 1y
+		Palace House in Newmarket, Suffolk          : crit, 1668, 1671
+        St James’s Palace                           : 1672, 1y
+		The Palace of White Hall                    : 1672, 1y
         Ham House in Ham, London                    : 1672, 1673
 		Hampton Cort Palace                         : 1692, 1693
 		Boughton, Northamptonshire                  : 1687, 1690
-		Trinity College, Oxford                     : 1693,
+		Trinity College, Oxford                     : 1693, 1y
 
     section THE NETHERLANDS
-        Paleis Het Loo                              : 1686,
-        Paleis Honselaarsdijk                       : 1686,
-        Slot Zeist                                  : 1686,
+        Paleis Het Loo                              : 1686, 1y
+        Paleis Honselaarsdijk                       : 1686, 1y
+        Slot Zeist                                  : 1686, 1y
     
     section FRANCE
-        Hotel de Mauroy, Troyes (Aube) [unbalanced]                         : 1660,
-        Hôtel d'Hercule, 5-7 rue des Grands-Augustins, Paris [unbalanced]   : 1771,
+        Hotel de Mauroy, Troyes (Aube) [unbalanced]                         : done, 1660, 1y
+        Hôtel d'Hercule, 5-7 rue des Grands-Augustins, Paris [unbalanced]   : done, 1671, 1y
 
     section RUSSIA
-        Menshikov Palace, St. Petersburg            : 1710, 1727
-        Winter Palace, St. Petersburg               : 1716, 1727
+        Menshikov Palace, St. Petersburg            : active, 1710, 1727
+        Winter Palace, St. Petersburg               : active, 1716, 1727
 
 
 ```
