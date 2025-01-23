@@ -7,9 +7,12 @@ gantt
     axisFormat %Y
 
 	section ENGLAND
-		The Palace of White Hall                    : 1662,
+        Somerset House, London [unbalanced]         : 1661, 1663
+		The Palace of White Hall [unbalanced]       : 1662,
 		Palace House in Newmarket, Suffolk          : 1668, 1671
-		Ham House in Ham, London                    : 1672, 1673
+        St James’s Palace                           : 1672,
+		The Palace of White Hall                    : 1672,
+        Ham House in Ham, London                    : 1672, 1673
 		Hampton Cort Palace                         : 1692, 1693
 		Boughton, Northamptonshire                  : 1687, 1690
 		Trinity College, Oxford                     : 1693,
@@ -20,7 +23,8 @@ gantt
         Slot Zeist                                  : 1686,
     
     section FRANCE
-        Troyes                                      : 1660,
+        Hotel de Mauroy, Troyes (Aube) [unbalanced]                         : 1660,
+        Hôtel d'Hercule, 5-7 rue des Grands-Augustins, Paris [unbalanced]   : 1771,
 
     section RUSSIA
         Menshikov Palace, St. Petersburg            : 1710, 1727
