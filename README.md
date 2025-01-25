@@ -1,5 +1,7 @@
 # Sash Windows from the Menshikov Palace in St. Petersburg, Russia
 
+[![wakatime](https://wakatime.com/badge/github/tropintropin/sash_windows.svg)](https://wakatime.com/badge/github/tropintropin/sash_windows)
+
 **Author ORCID**: [https://orcid.org/0009-0007-6934-6869](https://orcid.org/0009-0007-6934-6869)
 
 ### Citation
