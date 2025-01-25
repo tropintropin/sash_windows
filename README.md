@@ -3,8 +3,23 @@
 ### Citation
 
 ```
-Tropin, Valery. Sash Windows from the Menshikov Palace in St. Petersburg, Russia. 2025. GitHub repository. https://github.com/tropintropin/sash_windows.git.
+Tropin, Valery. Sash Windows from the Menshikov Palace in St. Petersburg, Russia. 2025. GitHub repository. https://github.com/tropintropin/sash_windows.git
 ```
+
+<details>
+  <summary>BibTeX</summary>
+
+```BibTeX
+@misc{tropin2025sash,
+  author    = {Tropin, Valery},
+  title     = {Sash Windows from the Menshikov Palace in St. Petersburg, Russia},
+  year      = {2025},
+  howpublished = {\url{https://github.com/tropintropin/sash_windows.git}},
+  note      = {GitHub repository}
+}
+```
+
+</details>
 
 ## About
 This repository provides materials for the study of sash windows, originating from the Palace of Alexander Menshikov, located on Vasilievsky Island in St. Petersburg, Russia. The repository is intended to support scholarly research and facilitate access to data for international academics.
