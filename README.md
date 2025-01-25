@@ -10,9 +10,9 @@ Tropin, Valery. Sash Windows from the Menshikov Palace in St. Petersburg, Russia
   <summary>BibTeX</summary>
 
 ```BibTeX
-@misc{tropin2025sash,
+@misc{tropinSashWindowsMenshikov2025,
   author    = {Tropin, Valery},
-  title     = {Sash Windows from the Menshikov Palace in St. Petersburg, Russia},
+  title     = {Sash Windows from the {{Menshikov}} Palace in {{St}}. {{Petersburg}}, {{Russia}}},
   year      = {2025},
   howpublished = {\url{https://github.com/tropintropin/sash_windows.git}},
   note      = {GitHub repository}
