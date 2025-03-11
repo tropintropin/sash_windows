@@ -34,6 +34,7 @@ gantt
 ```
 
 ## Sources
+1. Андреева Е. А. Петербургская резиденция А.Д. Меншикова в первой трети XVIII в. : Описания палат, хором и сада: Исследование и документы. Санкт-Петербург: Историческая иллюстрация, 2013. 360 c.
 1. Baggs A. P. The Earliest Sash-Window in Britain? // The Georgian Group Jounal. 1997. (VII). C. 168–171.
 1. Bayley J., Doonan R., Dungworth D. The Earliest Sash-Window in England? // Verre et Fenêtre de l’Antiquité au xviiie siècle, les Actes du premier colloque international organisé à Paris-La Défense / Versailles du 13 au 15 octobre 2005 par l’Association Verre & Histoire. 2005.
 1. Louw H. J. The Development of the Window: History, Repair and Conservation под ред. M. Tutton, E. Hirst, J. Pearce, Routledge, 2015.C. 7–96. doi: 10.4324/9781315793832-2.
