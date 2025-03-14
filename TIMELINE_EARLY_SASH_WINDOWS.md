@@ -2,7 +2,7 @@
 
 ```mermaid
 gantt
-	title Sash Windows
+	title Early Sash Windows in the Europe
 	dateFormat YYYY
     axisFormat %Y
 
@@ -35,12 +35,11 @@ gantt
 
 ## Sources
 1. Andreeva E. A. Peterburgskaya rezidenciya A. D. Menshikova v pervoj treti XVIII v. : Opisaniya palat, horom i sada: Issledovanie i dokumenty. Sankt-Peterburg: Istoricheskaya illyustraciya, 2013. 360 s.
-1. Baggs A. P. The Earliest Sash-Window in Britain? // The Georgian Group Jounal. 1997. (VII). C. 168–171.
-1. Bayley J., Doonan R., Dungworth D. The Earliest Sash-Window in England? // Verre et Fenêtre de l’Antiquité au xviiie siècle, les Actes du premier colloque international organisé à Paris-La Défense / Versailles du 13 au 15 octobre 2005 par l’Association Verre & Histoire. 2005.
-1. Louw H. J. The Development of the Window: History, Repair and Conservation под ред. M. Tutton, E. Hirst, J. Pearce, Routledge, 2015.C. 7–96. doi: 10.4324/9781315793832-2.
-1. Louw H. J. The Origin of the Sash-Window // Architectural History. 1983. (26). C. 49. doi: 10.2307/1568434.
-1. Louw H. J., Crayford R. A Constructional History of the Sash-Window c. 1670-c.1725 (Part 1) // Architectural History. 1998. (41). C. 82–130. doi: 10.2307/1568649.
-1. Louw H. J., Crayford R. A Constructional History of the Sash-Window, c. 1670-c. 1725 (Part 2) // Architectural History. 1999. (42). C. 173. doi: 10.2307/1568709.
-1. Roever N. de, Bredius A. Oud Holland. Amsterdam, 1900.
+1. Baggs A. P. The Earliest Sash-Window in Britain? // The Georgian Group Jounal. 1997. (VII). P. 168–171. URL: https://georgiangroup.org.uk/wp-content/uploads/2020/10/GGJ_1997_Vol_7_16_Baggs_0001.pdf
+1. Bayley J., Doonan R., Dungworth D. The Earliest Sash-Window in England? // Verre et Fenêtre de l’Antiquité au xviiie siècle, les Actes du premier colloque international organisé à Paris-La Défense / Versailles du 13 au 15 octobre 2005 par l’Association Verre & Histoire. 2005. URL: https://www.verre-histoire.org/colloques/verrefenetre/pages/p422_01_bayley.html
+1. Louw H. J. The Development of the Window: History, Repair and Conservation под ред. M. Tutton, E. Hirst, J. Pearce, Routledge, 2015. P. 7–96. URL: https://www.researchgate.net/publication/329694492_The_Development_of_the_Window_History_Repair_and_Conservation
+1. Louw H. J. The Origin of the Sash-Window // Architectural History. 1983. (26). P. 49. doi: [10.2307/1568434](https://doi.org/10.2307/1568434).
+1. Louw H. J., Crayford R. A Constructional History of the Sash-Window c. 1670–c.1725 (Part 1) // Architectural History. 1998. (41). P. 82–130. doi: [10.2307/1568649](https://doi.org/10.2307/1568649).
+1. Louw H. J., Crayford R. A Constructional History of the Sash-Window, c. 1670–c.1725 (Part 2) // Architectural History. 1999. (42). P. 173. doi: [10.2307/1568709](https://doi.org/10.2307/1568709).
 1. Trubinov Yu. V. Palaty svetlejshego knyazya Menshikova : 300-letiyu Sankt-Peterburga posvyashchaetsya. Sankt-Peterburg: Levsha, 2003. 168 s.
-1. Wittrick A. Palace House Mansion Palace Street, Newmarket, Suffolk: Report Outlining the Analysis and Interpretation of a Late Seventeenth-Century, Solid-Frame, Counterbalanced, Sash Window 1999. doi: 10.5284/1058141.
+1. Wittrick A. Palace House Mansion Palace Street, Newmarket, Suffolk: Report Outlining the Analysis and Interpretation of a Late Seventeenth-Century, Solid-Frame, Counterbalanced, Sash Window 1999. doi: [10.5284/1058141](https://doi.org/10.5284/1058141).
