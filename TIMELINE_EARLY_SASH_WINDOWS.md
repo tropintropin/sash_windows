@@ -29,12 +29,14 @@ gantt
     section RUSSIA
         Menshikov Palace and Estate, St. Petersburg, 1710–1727                      : active, 1710, 1727
         First Winter Palace, St. Petersburg, 1716–1727                              : active, 1716, 1727
+        Monplaisir Palace, Petergof, St. Petersburg, 1717–1724                      : active, 1717, 1724
 
 
 ```
 
 ## Sources
 1. Andreeva E. A. Peterburgskaya rezidenciya A. D. Menshikova v pervoj treti XVIII v. : Opisaniya palat, horom i sada: Issledovanie i dokumenty. Sankt-Peterburg: Istoricheskaya illyustraciya, 2013. 360 s.
+1. Arkhipov N. I. Nikolai Il'ich Arkhipov. Issledovaniia po istorii Petergofa. Sankt-Peterburg: GMZ «Petergof», 2016. 591 s.
 1. Baggs A. P. The Earliest Sash-Window in Britain? // The Georgian Group Jounal. 1997. (VII). P. 168–171. URL: https://georgiangroup.org.uk/wp-content/uploads/2020/10/GGJ_1997_Vol_7_16_Baggs_0001.pdf
 1. Bayley J., Doonan R., Dungworth D. The Earliest Sash-Window in England? // Verre et Fenêtre de l’Antiquité au xviiie siècle, les Actes du premier colloque international organisé à Paris-La Défense / Versailles du 13 au 15 octobre 2005 par l’Association Verre & Histoire. 2005. URL: https://www.verre-histoire.org/colloques/verrefenetre/pages/p422_01_bayley.html
 1. Louw H. J. The Development of the Window: History, Repair and Conservation под ред. M. Tutton, E. Hirst, J. Pearce, Routledge, 2015. P. 7–96. URL: https://www.researchgate.net/publication/329694492_The_Development_of_the_Window_History_Repair_and_Conservation
