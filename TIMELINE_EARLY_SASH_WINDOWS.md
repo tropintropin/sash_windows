@@ -34,6 +34,17 @@ gantt
 
 ```
 
+## Legend
+
+This diagram illustrates the earliest confirmed occurrences of *sash windows* across Europe, as well as their initial documented appearances in **early 18th-century Petrine Russia**. The aim of this study is to investigate potential transmission routes through which the sash window design may have been introduced into Russian architectural practice.
+
+The label `unbalanced` refers to early vertically sliding windows that lacked a counterbalancing mechanism — such as cords, pulleys, and weights — typically associated with the fully developed sash window system.
+
+The dates indicated in the diagram correspond to documented instances of sash window installation in the specified buildings. Where such precise information is unavailable, the general construction period of the building is provided instead.
+
+The chronology and data pertaining to Western Europe are primarily derived from the research of *Dr H. Louw*. Additional references and sources are listed in the [*Sources*](#sources) section.
+
+
 ## Sources
 1. Andreeva E. A. Peterburgskaya rezidenciya A. D. Menshikova v pervoj treti XVIII v. : Opisaniya palat, horom i sada: Issledovanie i dokumenty. Sankt-Peterburg: Istoricheskaya illyustraciya, 2013. 360 s.
 1. Arkhipov N. I. Nikolai Il'ich Arkhipov. Issledovaniia po istorii Petergofa. Sankt-Peterburg: GMZ «Petergof», 2016. 591 s. URL: https://peterhofmuseum.ru/assets/files/20170904/d31f3f8b1f758a51bf5a5c633e53da57.pdf
