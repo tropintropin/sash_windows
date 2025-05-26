@@ -1,8 +1,8 @@
-# Early Sash Windows in the Europe
+# From West to East: The Early History of Sash Windows in Europe and Petrine Russia
 
 ```mermaid
 gantt
-	title Early Sash Windows in the Europe
+	title Early Sash Window Implementations in Western Europe and Russia
 	dateFormat YYYY
     axisFormat %Y
 
