@@ -4,7 +4,7 @@
 
 **Author ORCID**: [https://orcid.org/0009-0007-6934-6869](https://orcid.org/0009-0007-6934-6869)
 
-### Citation
+## Citation
 ```
 Tropin, Valery. Sash Windows from the Menshikov Palace in St. Petersburg, Russia. 2025. GitHub repository. https://github.com/tropintropin/sash_windows.git
 ```

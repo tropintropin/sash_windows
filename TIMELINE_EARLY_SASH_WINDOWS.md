@@ -56,3 +56,26 @@ The chronology and data pertaining to Western Europe are primarily derived from 
 1. Louw H. J., Crayford R. A Constructional History of the Sash-Window, c. 1670–c.1725 (Part 2) // Architectural History. 1999. (42). P. 173. doi: [10.2307/1568709](https://doi.org/10.2307/1568709).
 1. Trubinov Yu. V. Palaty svetlejshego knyazya Menshikova : 300-letiyu Sankt-Peterburga posvyashchaetsya. Sankt-Peterburg: Levsha, 2003. 168 s.
 1. Wittrick A. Palace House Mansion Palace Street, Newmarket, Suffolk: Report Outlining the Analysis and Interpretation of a Late Seventeenth-Century, Solid-Frame, Counterbalanced, Sash Window 1999. doi: [10.5284/1058141](https://doi.org/10.5284/1058141).
+
+
+## Citation
+
+```
+Tropin, Valery. Sash Windows Timeline. 2025. GitHub repository, file TIMELINE_EARLY_SASH_WINDOWS.md, commit <commit hash>.  
+https://github.com/tropintropin/sash_windows/blob/<commit_hash>/TIMELINE_EARLY_SASH_WINDOWS.md
+```
+
+<details>
+    <summary><b>How to Cite a Specific Version of This File</b></summary>
+
+The `<commit hash>` is the unique code for this version. Find it by clicking *History* on the file page, select a *commit*, and copy the code from the URL.
+
+To link to an exact version of this file (so the citation doesn’t break when the file changes), follow these steps:
+
+1. Open the file on GitHub, for example: `https://github.com/tropintropin/sash_windows/blob/main/TIMELINE_EARLY_SASH_WINDOWS.md`
+1. Click the *History* button near the top right to see all changes to this file.
+1. Find the commit you want to cite and click on it.
+1. Copy the URL from your browser’s address bar — this links to the file at that exact commit.
+
+Use this URL in your citation to ensure it always points to the same version.
+</details>
