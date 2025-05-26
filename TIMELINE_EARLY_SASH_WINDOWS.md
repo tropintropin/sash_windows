@@ -1,4 +1,4 @@
-# From West to East: The Early History of Sash Windows in Europe and Petrine Russia
+# Early Sash Window Implementations in Western Europe and Russia (Timeline Diagram)
 
 ```mermaid
 gantt
@@ -27,9 +27,10 @@ gantt
         Slot Zeist, 1686                                                            : 1686, 1y
 
     section RUSSIA
-        Menshikov Palace and Estate, St. Petersburg, 1710–1727                      : active, 1710, 1727
+
+        Menshikov Palace and Estate, St. Petersburg, 1711–1727                      : active, 1711, 1727
         First Winter Palace, St. Petersburg, 1716–1727                              : active, 1716, 1727
-        Monplaisir Palace, Petergof, St. Petersburg, 1717–1724                      : active, 1717, 1724
+        Monplaisir Palace, Petergof, St. Petersburg, 1715–1724                      : active, 1715, 1724
 
 
 ```
@@ -61,7 +62,7 @@ The chronology and data pertaining to Western Europe are primarily derived from 
 ## Citation
 
 ```
-Tropin, Valery. "From West to East: The Early History of Sash Windows in Europe and Petrine Russia." In Sash Windows from the Menshikov Palace in St. Petersburg, Russia. 2025. GitHub repository. File: TIMELINE_EARLY_SASH_WINDOWS.md, commit <commit hash>.  
+Tropin, Valery. "Early Sash Window Implementations in Western Europe and Russia (Timeline Diagram)." In Sash Windows from the Menshikov Palace in St. Petersburg, Russia. 2025. GitHub repository. File: TIMELINE_EARLY_SASH_WINDOWS.md, commit <commit hash>.  
 https://github.com/tropintropin/sash_windows/blob/<commit_hash>/TIMELINE_EARLY_SASH_WINDOWS.md
 ```
 
