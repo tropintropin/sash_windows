@@ -61,7 +61,7 @@ The chronology and data pertaining to Western Europe are primarily derived from 
 ## Citation
 
 ```
-Tropin, Valery. Sash Windows Timeline. 2025. GitHub repository, file TIMELINE_EARLY_SASH_WINDOWS.md, commit <commit hash>.  
+Tropin, Valery. "From West to East: The Early History of Sash Windows in Europe and Petrine Russia." In Sash Windows from the Menshikov Palace in St. Petersburg, Russia. 2025. GitHub repository. File: TIMELINE_EARLY_SASH_WINDOWS.md, commit <commit hash>.  
 https://github.com/tropintropin/sash_windows/blob/<commit_hash>/TIMELINE_EARLY_SASH_WINDOWS.md
 ```
 
