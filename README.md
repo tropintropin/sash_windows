@@ -27,10 +27,20 @@ Tropin, Valery. Sash Windows from the Menshikov Palace in St. Petersburg, Russia
 ## About
 This repository provides materials for the study of sash windows, originating from the Palace of Alexander Menshikov, located on Vasilievsky Island in St. Petersburg, Russia. The repository is intended to support scholarly research and facilitate access to data for international academics.
 
+The palace is currently a branch of the State Hermitage Museum, functioning as a scientific curatorial department. Its staff conduct historical research, curate exhibitions, and organize scholarly events related to Russian culture of the Petrine era. See the [official Hermitage website](https://www.hermitagemuseum.org/research/science_departments_list/menshikov_department/) for more information. Please note: *the linked page is in Russian only*.
+
+
 ## How to Use
 1. Browse the repository to access materials.
 1. Cite this repository in your research using the provided citation format.
 3. For any questions or collaboration proposals, feel free to reach out via the contact information on my [website](https://tropin.one).
+
+## Repository Structure
+
+| File | Description |
+|------|-------------|
+| [`README.md`](README.md) | Project overview, citation formats, and licensing (*this file*) |
+| [`TIMELINE_EARLY_SASH_WINDOWS.md`](TIMELINE_EARLY_SASH_WINDOWS.md) | Historical timeline of early sash window implementations in Europe and Petrine Russia (with references) |
 
 ---
 
